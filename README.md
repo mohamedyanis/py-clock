@@ -33,7 +33,7 @@ Pic1           | Pic2
 ```bash
 pip install turtle
 ```
-3. Install this repository, click <a href="https://github.com/mohamedyanis/Wikipedia-app2/archive/master.zip"> here </a> to install it.
+3. Install this repository, click <a href="https://github.com/mohamedyanis/py-clock/archive/master.zip"> here </a> to install it.
 4. Extract the folder.
 5. Run the ```clock.py``` file.
 
